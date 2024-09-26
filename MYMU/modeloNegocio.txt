@@ -1,0 +1,22 @@
+Funcinalidad -
+
+	Analiza rostros mediante la IA y da recomendaciones y correcciones sobre maquillaje. Viendo perfiles ajenos podrás guardar tus gustos y te saldrán tutoriales de como adaptarlo a tu tipo de rostro. La manera de monetizar sería mediante el porcentaje que sacaríamos con la recomendación de productos y la recomendación del servicio de profesionales.
+
+Competencia -
+	Existen muchas aplicaciones que te escanean el rostro y te prueban maquillajes, te dicen tu tono de piel o si la tienes seca. Pero ninguna te hace tutoriales personalizados para que tú misma te maquilles				
+
+Segmento de mercado -
+
+	Personas de todas las edades que quieran aprender a maquillarse por su cuenta.
+
+Tecnología de IA -
+
+Proveedores de productos y servicios -
+
+Monetización -
+
+	Estratégia de precios -
+
+Ciclo de adquisición de usuarios -
+
+Costes operativos -
